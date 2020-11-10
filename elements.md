@@ -2,7 +2,7 @@
 title: Projects
 feature_text: |
   Here you will get an overview of my featuring projects
-feature_image: "https://github.com/paulinakurowska/paulinakurowska.github.io/blob/master/img/balos.jpg"```"https://picsum.photos/2560/600?image=873"```
+feature_image: "https://github.com/paulinakurowska/paulinakurowska.github.io/blob/master/img/balos.jpg"
 excerpt: "Here you will get an overview of my featuring projects"
 aside: true
 ---
