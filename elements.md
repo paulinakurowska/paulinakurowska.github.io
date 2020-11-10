@@ -1,12 +1,12 @@
 ---
 title: Projects
 feature_text: |
-  Here you will get an overview of my featuring projects
+ 
 feature_image: /img/balos.jpg
 excerpt: "Here you will get an overview of my featuring projects"
 aside: true
 ---
-
+Here you will get an overview of my featuring projects
 # Cooperation on publications and research
 - [Monitor:Vorerkrankungen mit erhöhtem Risiko für schwere COVID-19-Verläufe](https://wido.de/fileadmin/Dateien/Dokumente/News/Pressemitteilungen/2020/2020_Monitor_Vorerkrankungen_mit_erhoehtem_Risiko_fuer_schwere_COVID-19-Verlaeufe_final.pdf)          
 
