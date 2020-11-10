@@ -2,7 +2,7 @@
 title: Projects
 feature_text: |
   Here you will get an overview of my featuring projects
-feature_image: /img/873-2560x600.jpg
+feature_image: /img/balos.jpg
 excerpt: "Here you will get an overview of my featuring projects"
 aside: true
 ---
