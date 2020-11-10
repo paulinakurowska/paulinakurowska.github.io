@@ -95,8 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Paulina Kurowska" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Hi! I am Paulina Kurowska - statistician and big data enthusiast with experience from various industries such as procurement, health insurance and logistics.
-Enjoy the reading and getting to know me!" # Site description and default description, also used in jekyll-seo-tag
+description: "Hi! I am Paulina Kurowska - statistician and big data enthusiast with experience from various industries such as procurement, health insurance and logistics. Enjoy the reading and getting to know me!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://paulinakurowska.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/paulinakurowska/paulinakurowska.github.io"
@@ -142,7 +141,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/paulina-kurowska-92880b93/
   GitHub: https://github.com/paulinakurowska
   link: https://paulinakurowska.github.io
-  RSS: /feed.xml
+  #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
