@@ -19,13 +19,9 @@ aside: true
 <iframe src="https://pkurowska.shinyapps.io/covid_app/?_ga=2.210297045.1525717498.1603123894-132976359.1603123894" 
           title="Shiny Dashboard COVID-19 active infections" width="100%" height="550" style="border:none;"></iframe>
 
-More projects can be found at my {% include button.html text="my GitHub" link="https://github.com/paulinakurowska/" icon="github" %}.  
+{% include button.html text="View my GitHub for more" link="https://github.com/paulinakurowska/" icon="github" %}.  
 
 
 ## Contact form
 
 {% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
