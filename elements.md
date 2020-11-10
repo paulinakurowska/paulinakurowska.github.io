@@ -1,80 +1,26 @@
 ---
-title: Elements
+title: Projects
 feature_text: |
-  A demo of Markdown and HTML includes
+  Here you will get an overview of my featuring projects
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Here you will get an overview of my featuring projects"
 aside: true
 ---
 
-# Heading 1
+# Cooperation on publications and research
+- [Monitor:Vorerkrankungen mit erhöhtem Risiko für schwere COVID-19-Verläufe](https://wido.de/fileadmin/Dateien/Dokumente/News/Pressemitteilungen/2020/2020_Monitor_Vorerkrankungen_mit_erhoehtem_Risiko_fuer_schwere_COVID-19-Verlaeufe_final.pdf)          
 
-## Heading 2
+- [Gesundheitsatlas](https://wido.de/publikationen-produkte/buchreihen/gesundheitsatlas/). 
 
-### Heading 3
+# Data Visualisations
+## Shiny 
 
-#### Heading 4
+- [Shiny for recent infections for COVID-19 in Germany](https://pkurowska.shinyapps.io/covid_app/?_ga=2.210297045.1525717498.1603123894-132976359.1603123894)
+<iframe src="https://pkurowska.shinyapps.io/covid_app/?_ga=2.210297045.1525717498.1603123894-132976359.1603123894" 
+          title="Shiny Dashboard COVID-19 active infections" width="100%" height="550" style="border:none;"></iframe>
 
-##### Heading 5
+More projects can be found at my [GitHub](https://github.com/paulinakurowska).  
 
-###### Heading 6
-
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
 
 ## HTML Includes
 
