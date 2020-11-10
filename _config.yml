@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Paulina Kurowska" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/my_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Hi! I am Paulina Kurowska - statistician and big data enthusiast with experience from various industries such as procurement, health insurance and logistics. Enjoy the reading and getting to know me!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://paulinakurowska.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
