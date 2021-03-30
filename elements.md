@@ -21,7 +21,3 @@ Here you will get an overview of my featuring projects
 
 {% include button.html text="View my GitHub for more" link="https://github.com/paulinakurowska/" icon="github" %}.  
 
-
-## Contact form
-
-{% include site-form.html %}
